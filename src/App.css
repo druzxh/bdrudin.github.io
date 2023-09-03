@@ -3,38 +3,17 @@
   /* #020c1b */
 }
 
-.content {
-  padding-top: 60px;
-  display: flex;
-  flex: 1;
-  height: 100vh;
+.bg-second {
+  background-color: #212529 !important;
+  color: #009688 !important;
 }
 
-.sidebar {
-  width: 40%;
-  background-color: #009688;
-  color: white;
-  height: 100vh;
-  position: fixed;
-  padding-left: 100px;
-  padding-top: 100px;
+.text-first {
+  color: #212529 !important;
 }
 
-.sidebar h1,
-.sidebar h2,
-.sidebar h3,
-.sidebar h4,
-.sidebar h5,
-.sidebar p {
-  text-align: left;
-  margin: 0;
-  padding: 5px;
-}
-
-.main-content {
-  flex: 1;
-  padding: 20px;
-  margin-left: 40%;
+.text-second {
+  color: #e8e4e6 !important;
 }
 
 .navbar {

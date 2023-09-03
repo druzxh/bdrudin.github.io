@@ -26,10 +26,6 @@
     transition: color 0.3s;
 }
 
-/* .nav-link:hover {
-    color: #ffc107;
-} */
-
 .link-icon,
 .nav-link:hover,
 .nav-link:active {
@@ -41,4 +37,24 @@
     color: #ffc107;
     /* background-color: #009688; */
     /* border-radius: 10px; */
+}
+
+.very-small-heading {
+    font-weight: bold !important;
+    font-size: 16px !important;
+}
+
+.small-heading {
+    font-weight: bold !important;
+    font-size: 30px !important;
+}
+
+.medium-heading {
+    font-weight: bold !important;
+    font-size: 50px !important;
+}
+
+.big-heading {
+    font-weight: bold !important;
+    font-size: 80px !important;
 }
